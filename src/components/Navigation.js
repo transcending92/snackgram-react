@@ -2,7 +2,7 @@ import "../styles/navigation.scss";
 
 
 
-function Navigation(){
+function Navigation() {
 return (
     <div className="navigation">
         <div className="container">

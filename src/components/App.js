@@ -1,12 +1,10 @@
-import './App.css';
-import Header from './Components/Navigation/Header';
-import Login from './Components/Login/Login';
+import '..styles/App.scss';
+import Navigation from './Navigation';
 
 function App() {
   return (
     <div className="App">
-      <Header />
-      {/* <Login /> */}
+      <Navigation />
     </div>
   );
 }

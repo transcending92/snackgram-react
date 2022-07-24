@@ -5,17 +5,17 @@ import Card from "./Card";
 function Cards() {
   const commentsOne = [
     {
-      user: "raffagrassetti",
+      user: "Livingmybestlife",
       text: "Woah dude, this is awesome! 🔥",
       id: 1,
     },
     {
-      user: "therealadamsavage",
+      user: "TrinityVibesFire",
       text: "Like!",
       id: 2,
     },
     {
-      user: "mapvault",
+      user: "_Hi_Lady_",
       text: "Niceeeee!",
       id: 3,
     },

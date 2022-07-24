@@ -10,33 +10,33 @@ function Suggestions() {
       </div>
 
       <Profile
-        caption="Followed by mapvault + 3 more"
+        caption="Suggestion for you"
         urlText="Follow"
         iconSize="medium"
         captionSize="small"
         storyBorder={true}
       />
       <Profile
-        caption="Followed by dadatlacak + 1 more"
+        caption="Suggestion for you"
         urlText="Follow"
         iconSize="medium"
         captionSize="small"
       />
       <Profile
-        caption="Follows you"
+        caption="Suggestion for you"
         urlText="Follow"
         iconSize="medium"
         captionSize="small"
       />
       <Profile
-        caption="Followed by dadatlacak + 7 more"
+        caption="Suggestion for you"
         urlText="Follow"
         iconSize="medium"
         captionSize="small"
         storyBorder={true}
       />
       <Profile
-        caption="Followed by mapvault + 4 more"
+        caption="Suggestion for you"
         urlText="Follow"
         iconSize="medium"
         captionSize="small"

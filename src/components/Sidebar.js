@@ -3,15 +3,15 @@ import Sticky from "react-sticky-el";
 import Profile from "./Profile";
 import Suggestions from "./Suggestions";
 import Footer from "./Footer";
-import image from "../images/profile.jpg";
+import image from "../images/profile.png";
 
 function Sidebar() {
   return (
     <Sticky topOffset={-80}>
       <div className="sidebar">
         <Profile
-          username="aleks.popovic"
-          caption="Aleksandar Popović"
+          username="CodemaniaChica_22"
+          caption="Nene"
           urlText="Switch"
           iconSize="big"
           image={image}

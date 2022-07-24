@@ -1,4 +1,4 @@
-@import "/variables";
+@import "../styles/variables";
 
 .footer {
   color: $font-color-footer;
@@ -24,6 +24,6 @@
     }
   }
 
-  .copyright {
-  }
+  // .copyright {
+  // }
 }
